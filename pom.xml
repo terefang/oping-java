@@ -22,4 +22,12 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>deployment</id>
+            <name>Releases</name>
+            <url>https://github.com/terefang/oping-java/maven2/releases/</url>
+        </repository>
+    </distributionManagement>
+
 </project>
