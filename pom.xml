@@ -22,9 +22,4 @@
         </dependency>
     </dependencies>
 
-    <scm>
-        <connection>scm:svn:http://github.com/terefang/liboping-java/trunk</connection>
-        <developerConnection>scm:svn:https://github.com/terefang/liboping-java/trunk</developerConnection>
-        <url>http://github.com/terefang/liboping-java/trunk</url>
-    </scm>
 </project>
